@@ -37,3 +37,5 @@ This is a portfolio export of a working workflow, not a plug-and-play template. 
 ## Why this project
 
 Most of my other projects (ticket triage bot, phishing simulator) are reactive — responding to something that's already happened. This one is proactive setup work instead, and it gave me hands-on experience combining a form trigger with document generation and multi-step notifications in the same workflow.
+
+<img width="2337" height="811" alt="Onboarding Automation" src="https://github.com/user-attachments/assets/b9e11320-840a-441b-bd54-f4a8580ebcf4" />
